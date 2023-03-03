@@ -1,2 +1,2 @@
 # rustcopter
-Helicopter Game with Rust
+Helicopter Game for Web with Rust, WebAssembly and Typescript
